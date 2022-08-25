@@ -1,5 +1,5 @@
 <p align="center">
-  <a href="https://tcno.co"><img src="https://i.ibb.co/HY9KV43/IMG-20220825-013804.png" alt="TechNobo logo" width="80%"></a>
+  <a href="https://legacytech.io"><img src="https://i.ibb.co/HY9KV43/IMG-20220825-013804.png" alt="TechNobo logo" width="80%"></a>
 </p>
   
 Olá, seja bem vindo ao perfil Legacy.
