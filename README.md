@@ -42,7 +42,7 @@ Olá, seja bem vindo ao perfil Legacy.
  </div>
  <p align="center"> Crypto donations: </p>
 <p align="center">
-  <img alt="BitCoin" href="bc1q2tzwm0gyjs4pjfk4khp9a8xfs5vw2vlxlqheen" src="https://img.shields.io/badge/Bitcoin-000?style=for-the-badge&logo=bitcoin&logoColor=white">
-  <img alt="BitCoin" href="0x428a7Bf29954BFb2cF9665057071A189c5a2e923" src="https://img.shields.io/badge/ETH-454A75?logoWidth=16&style=for-the-badge&logo=ethereum&logoColor=75A6C6">
-  <img alt="XMR" href="445HjrFrLhv5pRjjnoFo6nRLEdWnupoYgNMyKj7G1fMEGqoGcHpvW9fHEQHThXGRnY3U3aNetNPhZ2pW6nkX78VyVdwnUbA" src="https://img.shields.io/badge/XMR-A13900?style=for-the-badge&logo=monero">
+  <a href="bc1q2tzwm0gyjs4pjfk4khp9a8xfs5vw2vlxlqheen"><img alt="BitCoin" src="https://img.shields.io/badge/Bitcoin-000?style=for-the-badge&logo=bitcoin&logoColor=white"></a>
+  <a href="0x428a7Bf29954BFb2cF9665057071A189c5a2e923"><img alt="BitCoin" src="https://img.shields.io/badge/ETH-454A75?logoWidth=16&style=for-the-badge&logo=ethereum&logoColor=75A6C6"></a>
+  <a href="445HjrFrLhv5pRjjnoFo6nRLEdWnupoYgNMyKj7G1fMEGqoGcHpvW9fHEQHThXGRnY3U3aNetNPhZ2pW6nkX78VyVdwnUbA"><img alt="XMR" src="https://img.shields.io/badge/XMR-A13900?style=for-the-badge&logo=monero"></a>
 </p>
