@@ -1,5 +1,5 @@
 <p align="center">
-  <a href="https://legacytech.io"><img src="https://i.ibb.co/HY9KV43/IMG-20220825-013804.png" alt="Logo" width="90%"></a>
+  <a href="https://legacytech.io"><img src="https://i.ibb.co/Ch6LjJD/IMG-20220825-015224.png" alt="Logo" width="80%"></a>
 </p>
   
 Olá, seja bem vindo ao perfil Legacy.
