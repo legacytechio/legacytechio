@@ -2,7 +2,8 @@
   <a href="https://legacytech.io"><img src="https://i.ibb.co/n1B5tpL/IMG-20220825-021257.png" alt="Logo" width="70%"></a>
 </p>
   
-Hi, welcome to my profile.
+Hi, welcome to my profile. 
+Buscando um novo rumo que faça sentido nesse mundo louco.
 
 
 <p align="center">
